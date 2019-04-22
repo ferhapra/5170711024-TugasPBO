@@ -1,0 +1,10 @@
+Dalam project ini main class hanya untuk menampilkan inputan pada output netbeans.
+Lalu Class Manusia merupakan superclass yang dibuat untuk sub class selanjutnya yaitu class Pelajar & Mahasiswa,
+Pada Class Manusia terdapat inputan berupa nama,umur dan jenis kelamin yang merupakan bagian dari data diri,
+sedangkan pada class Pelajar & Mahasiswa terdapat inputan berupa hobi,jenjang pendidikan & kebutuhan selama 1 bulan sebesar berapa rupiah.
+Pada sub class diberi keterangan fungsi yaitu extends super class yang merupakan pewaris class untuk class yang di wariskan.
+Dan pada method SuperClass dijadikan override untuk  menulis kembali method sama persis. 
+Sama mulai dari nama method dan isinya dan mengimplementasi kembali di sub classnya. 
+Overriding dipakai saat kita menggunakan method yang sama tapi berbeda implementasinya. 
+Jadi overriding method mempunyai nama method yang sama, jumlah parameter dan tipe parameter serta nilai kembalian (return) method yang di override. 
+Jika method memiliki modifier akses public, method overridenya juga harus public.
